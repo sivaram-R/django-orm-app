@@ -5,7 +5,8 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-![ENTITY RELATIONSHIP DIAGRAM](./output2.png)
+![output2](https://user-images.githubusercontent.com/121165794/229858383-25d66222-5849-47a3-ae0c-2f97e82d2d43.png)
+
 
 ## DESIGN STEPS
 
@@ -20,8 +21,6 @@ Enter the code for admin.py and model.py
 
 ### STEP 4:
 Execute Django admin and create 10 students 
-
-Write your own steps
 
 ## PROGRAM
 ```
@@ -48,7 +47,7 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 
-![OUTPUT](./output.png)
+![output](https://user-images.githubusercontent.com/121165794/229858126-eeac40fe-e367-4ffb-a7bd-77f9467e68fe.png)
 
 
 ## RESULT
